@@ -1,0 +1,4 @@
+iteration,drone,old_utility,new_utility,old_coverage,new_coverage,old_distance,new_distance,old_energy,new_energy,old_conflict,new_conflict,old_overlap,new_overlap,changed,target
+1,D1,-65.17,-65.17,1,1,9,9,10.35,10.35,0.0,0.0,0,0,False,S5
+1,D2,-82.33,-82.33,1,1,11,11,12.649999999999999,12.649999999999999,0.0,0.0,0,0,False,S3
+1,D3,-65.17,-65.17,1,1,9,9,10.35,10.35,0.0,0.0,0,0,False,S1

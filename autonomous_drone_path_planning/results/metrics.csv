@@ -1,0 +1,3 @@
+method,distance,energy,conflicts,coverage,zones_covered,total_zones
+Independent Baseline,29,33.35,0.0,60.0,3,5
+Game-Theoretic,29,33.35,0.0,60.0,3,5
